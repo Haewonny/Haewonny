@@ -14,12 +14,18 @@
 <br>
 
 </p>
+<br>
+
 
 <h3 align="center">💻 My GitHub 💻 </h3>
-
 <p align="center">
+<a href="https://github.com/Haewonny">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haewonny&layout=compact" />
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/Haewonny/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Haewonny&&show_icons=true&theme=graywhite"/>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haewonny&&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haewonny&layout=compact)
-
-  </p>
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&animation=twinkling)
