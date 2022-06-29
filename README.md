@@ -18,8 +18,8 @@
 
 <h3 align="center">✏️ Study ✏️ </h3>
 <p align="center">
-<a href="https://www.notion.so/HTML-020e7094cd8c48179fa3436346071808">
-  <img src="https://img.shields.io/badge/HTML%20Study-E34F26?style=round-square&logo=HTML5&logoColor=white&link=https://www.notion.so/HTML-020e7094cd8c48179fa3436346071808"/>
+<a href="https://better-sort-f10.notion.site/HTML-020e7094cd8c48179fa3436346071808">
+  <img src="https://img.shields.io/badge/HTML%20Study-E34F26?style=round-square&logo=HTML5&logoColor=white&link=https://better-sort-f10.notion.site/HTML-020e7094cd8c48179fa3436346071808"/>
 </p>
 <br>
 
