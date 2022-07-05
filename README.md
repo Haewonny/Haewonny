@@ -20,6 +20,7 @@
 <p align="center">
 <a href="https://better-sort-f10.notion.site/HTML-020e7094cd8c48179fa3436346071808">
   <img src="https://img.shields.io/badge/HTML%20Study-E34F26?style=round-square&logo=HTML5&logoColor=white&link=https://better-sort-f10.notion.site/HTML-020e7094cd8c48179fa3436346071808"/>
+    <img src="https://img.shields.io/badge/CSS%20Study-1572B6?style=round-square&logo=css3&logoColor=white&link=https://better-sort-f10.notion.site/HTML-020e7094cd8c48179fa3436346071808"/>
 </p>
 <br>
 
