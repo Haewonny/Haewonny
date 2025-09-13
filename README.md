@@ -11,16 +11,21 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
 ### # Experiences
+
+- **Hana Bank, IT System**
+
+  > `Intern`  ㅤ2025. 07. - 2025. 08.
+ 
 - **Naver Cloud, Cloud Tech Frontier**
 
   > `PT`  ㅤ2024. 10. - 2024. 12.
-- **UMC Ewha 6th**
+- **UMC 6th**
 
   > `Vice Leader` `Server Member`  ㅤ 2024. 03. - 2024. 08.
-- **Google Developer Student Clubs Ewha 5th**
+- **Google Developer Student Clubs 5th**
 
   > `Server Member`  ㅤ 2023. 09. - 2024. 06.
-- **Ewha AI Computing Platform Lab**
+- **AI Computing Platform Lab**
 
   > `Undergraduate Intern`  ㅤ 2022. 12. - 2023. 05.
    
@@ -34,7 +39,7 @@
 - **ONCE : 카드 다보유자를 위한 결제 전 최대 할인 카드 추천 AI 챗봇 서비스**
     > `Backend` `Frontend` `AI`  ㅤ 2023. 12. - 2024. 06.
 
-- **COMONG : 이화여대 주변 맛집 추천 웹 서비스**
+- **COMONG : 캠퍼스 주변 맛집 추천 웹 서비스**
     > `Backend` `Frontend` ㅤ 2022. 10. - 2022. 12.
 
 ### # Stats
