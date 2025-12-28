@@ -45,7 +45,6 @@
 ### # Stats
 <div style="display: flex; align-items: center;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hawon2205" height="130"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haewonny&layout=compact" height="130"/>
 </div>
 
 
